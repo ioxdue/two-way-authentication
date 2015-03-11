@@ -1,0 +1,21 @@
+{
+  "name": "HTTPSSLServer-App",
+  "version": "1.0.0",
+  "description": "HTTPSSLServer Sample Application",
+  
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.2",
+    "node-forge": "~0.6.20"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "server.js"
+}
